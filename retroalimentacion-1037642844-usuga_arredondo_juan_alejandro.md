@@ -31,12 +31,12 @@
 
 - Repositorio original: https://github.com/Juan1usuga/Proyecto_de_Relatividad_y_gravitacion-
 - Fecha de creación del repositorio: 2026-05-27 (antes del 14 de abril: no)
-- Total de commits desde creación del repo: 10
+- Total de commits desde creación del repo: 11
 - Primer commit: 2026-05-27
-- Último commit: 2026-05-28
-- Días activos con commits: 2
-- Semanas activas con commits: 1
-- Mayor pausa entre commits: 1 días
+- Último commit: 2026-06-02
+- Días activos con commits: 3
+- Semanas activas con commits: 2
+- Mayor pausa entre commits: 5 días
 
 ### Aplicación al repositorio
 
